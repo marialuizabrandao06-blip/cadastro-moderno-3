@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(
+        320deg,
+        #549fe5,
+        #e8e8eb,
+        #3dbde4
+    );
+   
+    font-family: 'Arial narrow Bold';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+
+}
+
+.container{
+    width: 450px;
+    margin: 60px auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+}
+
